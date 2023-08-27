@@ -8,6 +8,7 @@ namespace GadosARadianes
     {
         static void Main(string[] args)
         {
+            //Grados a Radianes 1.0
             /*Una revolución completa es igual a 2? rad
             (o) 360°. 
             1° = 0,017453 radianes y 1 rad = 57,2958°. 
