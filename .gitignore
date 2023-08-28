@@ -1,12 +1,10 @@
 GadosARadianes.csproj
 GadosARadianes.sln
-
 GadosARadianes.suo
-
 Properties/
-
 bin/
-
 obj/
+App.config
+.vs/
 
 
